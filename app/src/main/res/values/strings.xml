@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IcePickSample</string>
+    <string name="setIcepickValue">set IcepickValue</string>
+    <string name="setText1">set Text1</string>
+    <string name="setValue">set Value</string>
+    <string name="checkValue">checkValue</string>
+</resources>
