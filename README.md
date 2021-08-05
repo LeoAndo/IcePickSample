@@ -1,6 +1,9 @@
-# Prerequisites
-![Screenshot_1628144609](https://user-images.githubusercontent.com/16476224/128301505-8f7dc0f1-ae45-437a-ae42-b0adafa90378.png)
+# Overview
+This project is a icepick library bug check application.
 
+
+# Prerequisites
+<img src="https://user-images.githubusercontent.com/16476224/128301505-8f7dc0f1-ae45-437a-ae42-b0adafa90378.png" width=320/>
 
 The icepick library has a problem that `save / restore` does not work when the activity is regenerated when the memory is insufficient (Dont keep activity : On). This project is the confirmation code of the following issue.
 
