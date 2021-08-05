@@ -1,5 +1,3 @@
-# IcePickSample
-
 # Prerequisites
 ![Screenshot_1628144609](https://user-images.githubusercontent.com/16476224/128301505-8f7dc0f1-ae45-437a-ae42-b0adafa90378.png)
 
